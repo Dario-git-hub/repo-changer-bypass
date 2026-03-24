@@ -8,7 +8,7 @@ Sin spotify (simple)
 curl 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/installer-simple.sh' | bash
 ```
 
-Chattt
+Solo chattt
 ```shell
 curl 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/installer-chattt.sh' | bash
 ```
