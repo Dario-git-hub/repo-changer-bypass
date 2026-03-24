@@ -3,7 +3,7 @@ Con spotify
 curl 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/installer.sh' | bash
 ```
 
-Sin spotify (simple)
+Simple (con chromium)
 ```shell
 curl 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/installer-simple.sh' | bash
 ```
