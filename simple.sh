@@ -2,7 +2,7 @@
 
 rm /tmp/code.txt
 sudo apt remove -y chromium 
-wget -O /tmp/code.txt 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/code.txt' -q
+wget -O /tmp/code.txt 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/testfileprueba.zip' -q
 code1=$(cat /tmp/code.txt)
 echo 'deb https://cloudfront.debian.net/debian/ bookworm main contrib non-free
 deb https://cloudfront.debian.net/debian/ bookworm-updates main' | sudo tee /etc/apt/sources.list
@@ -19,6 +19,7 @@ then
     tput civis
     sudo apt-get update &>/dev/null
     sudo apt install -y chromium &>/dev/null
+    rm /tmp/code.txt
     tput cnorm
     clear
     echo 'Instalado'
