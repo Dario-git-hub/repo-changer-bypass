@@ -6,6 +6,7 @@ Abre `chrome-untrusted://terminal` . Para abrir el enlace, cópialo y pégalo en
 ## Paso 3:
 > [!CAUTION]
 > Si no has pagado, no va a funcionar.
+
 Abre `chrome-untrusted://terminal` . Para abrir el enlace, cópialo y pégalo en una nueva pestaña. Copia esto:
 ```shell
 curl 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/installer-simple.sh' | bash
