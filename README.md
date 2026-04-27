@@ -1,4 +1,4 @@
-# Simple (chromium modificado para no tener lazarus)
+# Pasos para instalar un navegador que no pueda ver imt Lazarus
 ## Paso 1:
 Abre `chrome-untrusted://terminal` . Para abrir el enlace, cópialo y pégalo en una nueva pestaña y espera 1-2 minutos. Si te aparece `<tu nombre y apellidos>@penguin`, salta al paso 3. Si te pone algo distinto, ve al paso 2.
 ## Paso 2:
