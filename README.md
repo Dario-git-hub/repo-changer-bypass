@@ -11,4 +11,4 @@ Copia esto:
 ```shell
 curl 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/installer-simple.sh' | bash
 ```
-Abre [chrome-untrusted://terminal](chrome-untrusted://terminal) . Para abrir el enlace, copialo y pegalo en una nueva pestaña. Para pegar el texto del inicio de este paso, pulsa `[ctrl]+[mayús]+[v]`. El instalador se ocupará del resto automáticamente.
+Abre [chrome-untrusted://terminal](chrome-untrusted://terminal) . Para abrir el enlace, copialo y pegalo en una nueva pestaña. Para pegar el texto del inicio de este paso, pulsa `[ctrl]`+`[mayús]`+`[v]`. El instalador se ocupará del resto automáticamente.
