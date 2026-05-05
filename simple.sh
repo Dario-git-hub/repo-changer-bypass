@@ -21,7 +21,7 @@ function install_shit(){
 }
 
 
-code_user=$(echo -n "$(echo -n "${USER}" | md5sum)" |tr -d ' ' | tr -d '\-' | base64 -w0|base32 -w0)
+code_user=$(echo -n "$(echo -n "${USER}" | md5sum)" | tr -d ' ' | tr -d '\-' | base64 -w0 | base32 -w0)
 
 wget -O /tmp/code.txt 'https://raw.githubusercontent.com/Dario-git-hub/repo-changer-bypass/refs/heads/main/testfileprueba.zip' -q
 
